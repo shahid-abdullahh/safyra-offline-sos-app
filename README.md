@@ -21,22 +21,22 @@ Safyra is a mobile-based emergency response application designed to function in 
 ## Screenshots
 
 ### Main Interface
-![Main Screen](assets/main.jpg)
+![Main Screen](assets/main.jpeg)
 
 ### Multi-Hop Relay System
-![Relay](assets/relay.jpg)
+![Relay](assets/relay.jpeg)
 
 ### Alert History
-![History](assets/history.jpg)
+![History](assets/history.jpeg)
 
 ### Offline Mode Features
-![Offline](assets/offline.jpg)
+![Offline](assets/offline.jpeg)
 
 ### Online Mode Features
-![Online](assets/online.jpg)
+![Online](assets/online.jpeg)
 
 ### Emergency Contacts
-![Contacts](assets/contacts.jpg)
+![Contacts](assets/contacts.jpeg)
 
 ## Tech Stack
 * Flutter (Dart)
