@@ -1,6 +1,6 @@
 # safyra-offline-sos-app
 Offline SOS emergency system using mesh networking and multi-layer fallback communication
-> 🚀 HackJIT 1.0 Winner – Built in 24 hours
+> 🚀 HackJIT 1.0 Winner | Built in 24 hours
 # Safyra – Offline SOS Emergency System
 
 ## Overview
